@@ -1,0 +1,6 @@
+C:\cpp_code\K_meansForm\K_meansForm\x64\Debug\K_meansForm.vcxprojAssemblyReference.cache
+C:\cpp_code\K_meansForm\K_meansForm\x64\Debug\K_meansForm.Form1.resources
+C:\cpp_code\K_meansForm\K_meansForm\x64\Debug\K_meansForm.vcxproj.GenerateResource.cache
+D:\K_meansForm\K_meansForm\x64\Debug\K_meansForm.vcxprojAssemblyReference.cache
+D:\K_meansForm\K_meansForm\x64\Debug\K_meansForm.Form1.resources
+D:\K_meansForm\K_meansForm\x64\Debug\K_meansForm.vcxproj.GenerateResource.cache
